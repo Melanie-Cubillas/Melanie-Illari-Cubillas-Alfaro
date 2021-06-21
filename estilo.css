@@ -3,13 +3,12 @@ h1{
     font-size:50px;
     font-family:helvetica;
     text-align:center;
-    padding: 40px;
 }
 #grad{
-    height: 100px;
     background-color: #e6baab;
     border-style: double;
-    line-height:1.8;
+    border-width: 10px;
+    padding: 40px;
 }
 div{
     color:white;
