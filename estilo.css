@@ -73,7 +73,7 @@ th,td{
    text-align: center;
    padding:10px;
 }
-tr: :nth-child(even){background-color:#8ba78e}
+
 th{
     background-color: #afd1ba;
     color:white;
